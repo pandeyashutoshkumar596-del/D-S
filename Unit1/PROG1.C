@@ -21,7 +21,7 @@ void main()
         printf("%d ", a[i]);
     }
 
-    printf("\n\nEnter the element to search: ");
+    printf("Enter the element to search: ");
     scanf("%d", &search);
 
     for(i = 0; i < 10; i++)
